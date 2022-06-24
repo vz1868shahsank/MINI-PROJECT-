@@ -1,2 +1,0 @@
-# MINI-PROJECT-
-Simple Calculator 
